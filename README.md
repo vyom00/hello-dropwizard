@@ -12,7 +12,7 @@ To test the example application run the following commands.
 
 * To run the server run.
 
-        java -jar target/dropwizard-example-1.2.0-SNAPSHOT.jar server example.yml
+        java -jar target/hello-dropwizard-1.0-SNAPSHOT.jar server example.yml
 
 * To hit the Hello World example (hit refresh a few times).
 
