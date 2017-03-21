@@ -1,15 +1,21 @@
-*.class
+target/
+dependency-reduced-pom.xml
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+
+# IntelliJ IDEA
+.idea/
 *.iml
-/.idea/
-/target/
-.env
-.DS_Store
-*.iws
 *.ipr
-*.classpath
-*.project
-# Package Files #
-*.jar
-*.war
-*.ear
-*.xml
+*.iws
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+nb-configuration.xml
+atlassian-ide-plugin.xml
+
+logs
