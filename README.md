@@ -25,7 +25,7 @@ To test the example application run the following commands.
   * deadlocks: OK
   * template: OK
 
-# Dev Environment Exercise
+# Dev Environment Exercise (Please ignore)
 
 ## Background
 The company you work for is building a dropwizard Restful services.
